@@ -1,2 +1,1 @@
-hello from the blackunicorn aka pierre
-legacy in the making
+Tinkering with freecodecamp's excersises it's been a rollercoster hell of a ride
